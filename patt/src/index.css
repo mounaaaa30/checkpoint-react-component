@@ -1,0 +1,32 @@
+.photoprofile{
+  width: 20%;
+  height: 20%;
+  margin-left: 40%;
+  margin-top: 05%;
+  border-radius: 25% 25%;
+  border-bottom: 5%;
+  box-shadow: 10px;
+  margin-bottom: 5%;
+}
+.namee{
+  text-align:center;
+  color: blue;
+  font-size:xx-large;
+  text-transform: inherit;
+  text-decoration:underline;
+  
+}
+.adresse{
+  color:black;
+  width: 40%;
+  margin-left: 30%;
+  text-align: center;
+  font-size: x-large;
+  text-decoration: dashed;
+  border: 5px blue dashed;
+}
+*{
+background-color:aquamarine;
+
+
+}
